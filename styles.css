@@ -10,9 +10,9 @@ h3{font-family: monospace;
     color:whitesmoke;
     text-align:center;}
 body{background: #454545;}
-@font-face {src: url(fonts/KouzanGyoushoOTF.otf);
+@font-face {src: url(KouzanGyoushoOTF.otf);
 font-family:Kouzan;}
-@font-face {src: url(fonts/NotoSerifJP-Bold.otf);
+@font-face {src: url(NotoSerifJP-Bold.otf);
 font-family:Yoru;}
 .Kouzan{font-size: 60pt;
 font-family:'Kouzan';
@@ -20,12 +20,12 @@ text-align:center;}
 .KouzanExit{font-size: 20pt;
 font-family:'Kouzan';
 color:dimgray;}
-@font-face {src: url(fonts/Yomogi-Regular.ttf);
+@font-face {src: url(Yomogi-Regular.ttf);
 Font-family:'Yomogi'}
 .KouzanExit2{font-size: 80pt;
 font-family:'Kouzan';
 color:whitesmoke;}
-@font-face {src: url(fonts/Yomogi-Regular.ttf);
+@font-face {src: url(Yomogi-Regular.ttf);
 Font-family:'Yomogi'}
 .Yomogi{font-size: 30pt;
 font-family:'Yomogi';
@@ -36,11 +36,10 @@ text-align:center}
 .KouzanLink{font-size: 50pt;
 font-family:'Kouzan';
 text-align:center;}
-@font-face {src: url(fonts/Yomogi-Regular.ttf);
+@font-face {src: url(Yomogi-Regular.ttf);
 Font-family:'Yomogi'}
 .KouzanMini{font-size: 20pt;
 font-family:'Kouzan';
 text-align:center;}
-@font-face {src: url(fonts/Yomogi-Regular.ttf);
+@font-face {src: url(Yomogi-Regular.ttf);
 Font-family:'Yomogi'}
-div{background-image: url("Images/CC%2520Images/8197851728_f681e38ccd_o.jpg");}
